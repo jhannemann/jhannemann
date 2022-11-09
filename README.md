@@ -1,3 +1,5 @@
+<link rel="me" rel="me" href="https://mastodon.online/@JensHannemann">
+
 I teach computer engineering technology at the University of Kentucky. I'm originally from Germany.
 
 My main interests are:
